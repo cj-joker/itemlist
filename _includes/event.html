@@ -24,11 +24,6 @@
             </span>
         {%- endif -%}
     </td>
-    <td class="description">
-        {%- if site.store.event.description -%}
-            {{- include.event.description -}}
-        {%- endif -%}
-    </td>
     <td>
         {% case include.eventdata.EventType %}
             {% when 'Trait' %}
