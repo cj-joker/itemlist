@@ -6,6 +6,7 @@
     "GlobalCooldown": 0,
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
+    "description": "Call down a destructive tornado in a random location."
   },
   "tornados": {
     "EventType": "Default",
