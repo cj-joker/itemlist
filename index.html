@@ -7,7 +7,11 @@ title: Store
 <script src="{{- 'assets/js/tabs.js' | relative_url -}}"></script>
 <script src="{{- 'assets/js/filter.js' | relative_url -}}"></script>
 <script src="https://www.kryogenix.org/code/browser/sorttable/sorttable.js"></script>
-<body color="c2c2c2">
+<style>
+    body {
+  background-color: #C2C2C2;
+}
+</style>
 
 {%- assign itemsForDisplay = '' | split: ',' -%}
 {%- assign eventsForDisplay = site.data.StoreIncidents.incitems | where_exp: "incident", "incident.price > 0" | sort: "abr" -%}
@@ -231,4 +235,3 @@ title: Store
         return document.getElementsByClassName("tabLinks")[0].click();
     });
 </script>
-</body>
