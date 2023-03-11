@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
     "stats": [
@@ -60,7 +60,7 @@
     "degree": 0
   },
   {
-    "description": "Timmy is an exceptionally agreeable and giving person. he never insults others and will sometimes offer kind words to brighten the moods of those around him. he also never judges people by their appearance.",
+    "description": "Timmy is an exceptionally agreeable and giving person. he rarely insults others or starts fights, and will sometimes offer kind words to brighten the moods of those around him. he also never judges people by their appearance.",
     "stats": [
 
     ],
@@ -570,7 +570,7 @@
     "degree": 0
   },
   {
-    "description": "Timmy loves fire. he will never extinguish fires. To relieve stress, he will occasionally go on random fire starting sprees. This happens more often if his mood is low.",
+    "description": "Timmy loves fire. he will never extinguish fires, and will occasionally go on random fire starting sprees. he will be happy around flames, and happier when yielding an incendiary weapon.",
     "stats": [
       "Only mental break \"FireStartingSpree\" allowed."
     ],
@@ -2034,5 +2034,65 @@
     "addPrice": 3500,
     "removePrice": 5500,
     "degree": 1
+  },
+  {
+    "description": "Timmy has fragile skin and bones. he takes more damage than other people from the same blows.",
+    "stats": [
+      "x115% incoming damage multiplier"
+    ],
+    "conflicts": [
+
+    ],
+    "bypassLimit": false,
+    "data": {
+      "canBypassLimit": false,
+      "customName": false,
+      "karmaTypeForRemoving": null,
+      "mod": "Biotech",
+      "karmaTypeForAdding": null,
+      "conflicts": [
+
+      ],
+      "stats": [
+        "x115% incoming damage multiplier"
+      ]
+    },
+    "defName": "Delicate",
+    "name": "delicate",
+    "canAdd": true,
+    "canRemove": true,
+    "addPrice": 3500,
+    "removePrice": 5500,
+    "degree": 0
+  },
+  {
+    "description": "The fewer people in Timmy's faction, the happier he is. Being alone is best of all.",
+    "stats": [
+
+    ],
+    "conflicts": [
+
+    ],
+    "bypassLimit": false,
+    "data": {
+      "canBypassLimit": false,
+      "customName": false,
+      "karmaTypeForRemoving": null,
+      "mod": "Biotech",
+      "karmaTypeForAdding": null,
+      "conflicts": [
+
+      ],
+      "stats": [
+
+      ]
+    },
+    "defName": "Recluse",
+    "name": "recluse",
+    "canAdd": true,
+    "canRemove": true,
+    "addPrice": 3500,
+    "removePrice": 5500,
+    "degree": 0
   }
 ]
