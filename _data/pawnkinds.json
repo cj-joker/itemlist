@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "data": {
       "stats": [
@@ -19,6 +19,6 @@
     "defName": "Human",
     "enabled": true,
     "name": "human",
-    "price": 2917
+    "price": 150
   }
 ]

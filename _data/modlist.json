@@ -54,6 +54,24 @@
     "version": "1.0.5.0"
   },
   {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Cooking Expanded",
+    "steamId": "2134308519",
+    "version": "1.4.8315.17730"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Brewing Expanded",
+    "steamId": "2186560858",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg Bjornson, Chowder and Trahspanda",
+    "name": "Vanilla Brewing Expanded - Coffees and Teas",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "FrozenSnowFox",
     "name": "[FSF] Complex Jobs",
     "steamId": null,
@@ -87,7 +105,7 @@
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
-    "version": "1.0.8391.36780"
+    "version": "1.0.8572.18461"
   },
   {
     "author": "tikubonn",
@@ -308,8 +326,8 @@
   {
     "author": "Oskar Potocki, dninemfive and Kikohi",
     "name": "Vanilla Furniture Expanded - Farming",
-    "steamId": null,
-    "version": null
+    "steamId": "1957158779",
+    "version": "1.0.1.0"
   },
   {
     "author": "aRandomKiwi",
@@ -322,12 +340,6 @@
     "name": "Animals Like Hay",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Owlchemist",
-    "name": "[Temp beta] Clean Pathfinding 2",
-    "steamId": "2887176193",
-    "version": "1.4"
   },
   {
     "author": "Neceros",
@@ -392,8 +404,8 @@
   {
     "author": "zenlor",
     "name": "Medieval Overhaul Tweaks",
-    "steamId": "2730497766",
-    "version": "1.0.0.0"
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Ogam;Taranchuk;ILuvSilicon",
@@ -460,5 +472,41 @@
     "name": "RocketMan - Performance Mod",
     "steamId": "2479389928",
     "version": "0.6.3.2421"
+  },
+  {
+    "author": "Lanilor and Pustalorc",
+    "name": "Loot Boxes [CONTINUED]",
+    "steamId": "2191113747",
+    "version": "1.4.0"
+  },
+  {
+    "author": "Harkon",
+    "name": "[HRK] Medieval deathrest coffin",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "HIGGS",
+    "name": "Clown Mod",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "fridgeBaron",
+    "name": "Immortals",
+    "steamId": "1984905966",
+    "version": "0.0.2.0"
+  },
+  {
+    "author": "Roolo and Updated by Ogliss",
+    "name": "RunAndGun",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo",
+    "name": "Search and Destroy",
+    "steamId": null,
+    "version": null
   }
 ]
