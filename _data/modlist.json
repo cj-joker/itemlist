@@ -42,12 +42,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "SirLalaPyon",
-    "name": "Medieval Overhaul",
-    "steamId": "2553700067",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Oskar Potocki and XeoNovaDan",
     "name": "Vanilla Factions Expanded - Medieval",
     "steamId": "2023513450",
@@ -70,6 +64,18 @@
     "name": "Vanilla Brewing Expanded - Coffees and Teas",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Haplo",
+    "name": "Misc. Robots",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Trunken and XeoNovaDan",
+    "name": "Vanilla Furniture Expanded - Security",
+    "steamId": "1845154007",
+    "version": "1.1.1.0"
   },
   {
     "author": "FrozenSnowFox",
@@ -124,12 +130,6 @@
     "name": "Grazing Lands",
     "steamId": "1770268130",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "GloomyLynx NukaFrog",
-    "name": "GloomyFurniture",
-    "steamId": "1558635181",
-    "version": "1.0.4"
   },
   {
     "author": "Andreas Pardeike",
@@ -258,12 +258,6 @@
     "version": "2.0.10.0"
   },
   {
-    "author": "Fluffy",
-    "name": "Blueprints",
-    "steamId": "708455313",
-    "version": "2.17.133"
-  },
-  {
     "author": "OskarPotocki, Atlas and Kikohi",
     "name": "Vanilla Furniture Expanded",
     "steamId": null,
@@ -292,6 +286,12 @@
     "name": "Fists Aren't Made of Steel",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Roolo",
+    "name": "Dual Wield",
+    "steamId": "1628211313",
+    "version": "0.5.0.0"
   },
   {
     "author": "YAYO",
@@ -378,92 +378,14 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Pizzacat OttersHoldHands iforgotmysocks AobaKuma",
-    "name": "Villages:Homes",
-    "steamId": "2941977041",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "小面包",
-    "name": "Victorian decorations",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "void",
-    "name": "Character Editor",
-    "steamId": "1874644848",
-    "version": "1.4.1240.0"
-  },
-  {
-    "author": "Yamazaki",
-    "name": "Animal Hoods",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "zenlor",
-    "name": "Medieval Overhaul Tweaks",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Ogam;Taranchuk;ILuvSilicon",
-    "name": "Rimedieval",
-    "steamId": "2516523040",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Sierra",
-    "name": "RimFantasy - Medieval Overhaul Edition",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Arisher",
-    "name": "Medievel Tailor",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Ogam",
-    "name": "Medieval Overhaul: Arcane Archaeologists",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "SirLalaPyon",
-    "name": "Medieval Genepacks",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "pelador",
-    "name": "Apothecary (Continued)",
-    "steamId": "2195469123",
-    "version": "1.4.2"
-  },
-  {
-    "author": "Archie",
-    "name": "Medieval Overhaul Apothecary Plants Patch",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "DevDesigner",
-    "name": "ↁ House Sanguin",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Joe Daly",
-    "name": "Hooded Helms addon for Medieval Overhaul",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Haplo",
     "name": "Misc. Training",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sergkart",
+    "name": "Mechanoid Idle Optimization",
     "steamId": null,
     "version": null
   },
@@ -480,24 +402,6 @@
     "version": "1.4.0"
   },
   {
-    "author": "Harkon",
-    "name": "[HRK] Medieval deathrest coffin",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "HIGGS",
-    "name": "Clown Mod",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "fridgeBaron",
-    "name": "Immortals",
-    "steamId": "1984905966",
-    "version": "0.0.2.0"
-  },
-  {
     "author": "Roolo and Updated by Ogliss",
     "name": "RunAndGun",
     "steamId": null,
@@ -508,5 +412,119 @@
     "name": "Search and Destroy",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "sulusdacor, james76543, Meltup and leugimimi",
+    "name": "Advanced Power Plus",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nibato",
+    "name": "AutoExtractGenes",
+    "steamId": "2882834449",
+    "version": "1.0.0"
+  },
+  {
+    "author": "RelaxedOtter",
+    "name": "Better Mechanoid Loot (continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ShadowTani",
+    "name": "Chemicals & Neutroamine",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "theactualspinny",
+    "name": "Gene Trader",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Coalcat and sumghai",
+    "name": "Defensive Machine Gun Turret Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ykara(Original) elStrages(1.4Update)",
+    "name": "EPOE 1.4 (Expanded Prosthetics and Organ Engineering)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Cocaine™",
+    "name": "Electric Stonecutting Table",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "dickmosi",
+    "name": "Firefoam Things",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Adamas",
+    "name": "Hospitality: Casino",
+    "steamId": "2939292644",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Hydroxyapatite",
+    "name": "Mechanitor Command Relays",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rikiki",
+    "name": "MiningCo. MiningHelmet",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ratys",
+    "name": "RT Fuse",
+    "steamId": "728314182",
+    "version": "1.6.0.0"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Simple Utilities: Ceiling",
+    "steamId": "2571003732",
+    "version": "1.4"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Underground Power Conduits",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "OskarPotocki, Atlas and Kikohi",
+    "name": "Vanilla Furniture Expanded - Medical Module",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Trunken",
+    "name": "Vanilla Furniture Expanded - Production",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Murmur",
+    "name": "Wall Light",
+    "steamId": "1423699208",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Zombieland",
+    "steamId": "928376710",
+    "version": "4.2.5.0"
   }
 ]
