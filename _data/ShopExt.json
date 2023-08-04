@@ -1927,7 +1927,7 @@
       },
       "description": "A zombie",
       "defName": "Zombie",
-      "enabled": true,
+      "enabled": false,
       "name": "Zombie",
       "price": 1
     }
