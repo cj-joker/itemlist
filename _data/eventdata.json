@@ -361,57 +361,57 @@
   },
   "raid": {
     "EventType": "Default",
-    "HasGlobalCooldown": true,
-    "HasLocalCooldown": true,
-    "GlobalCooldown": 600,
-    "LocalCooldown": 600,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
   "dropraid": {
     "EventType": "Default",
-    "HasGlobalCooldown": true,
-    "HasLocalCooldown": true,
-    "GlobalCooldown": 600,
-    "LocalCooldown": 600,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
   "sapperraid": {
     "EventType": "Default",
-    "HasGlobalCooldown": true,
-    "HasLocalCooldown": true,
-    "GlobalCooldown": 600,
-    "LocalCooldown": 600,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
   "siegeraid": {
     "EventType": "Default",
-    "HasGlobalCooldown": true,
-    "HasLocalCooldown": true,
-    "GlobalCooldown": 600,
-    "LocalCooldown": 600,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
   "mechanoidraid": {
     "EventType": "Default",
-    "HasGlobalCooldown": true,
-    "HasLocalCooldown": true,
-    "GlobalCooldown": 600,
-    "LocalCooldown": 600,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
   "infestation": {
     "EventType": "Default",
-    "HasGlobalCooldown": true,
-    "HasLocalCooldown": true,
-    "GlobalCooldown": 600,
-    "LocalCooldown": 600,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
   "manhunterpack": {
     "EventType": "Default",
-    "HasGlobalCooldown": true,
+    "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
-    "GlobalCooldown": 600,
+    "GlobalCooldown": 0,
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
@@ -449,10 +449,10 @@
   },
   "pawn": {
     "EventType": "Default",
-    "HasGlobalCooldown": true,
-    "HasLocalCooldown": true,
-    "GlobalCooldown": 15,
-    "LocalCooldown": 7200,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
   "levelskill": {

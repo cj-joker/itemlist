@@ -494,14 +494,16 @@
       "degree": 0,
       "description": "Timmy loves fire. he will never extinguish fires, and will occasionally go on random fire starting sprees. he will be happy around flames, and happier when wielding an incendiary weapon.",
       "stats": [
-        "Only mental break \"FireStartingSpree\" allowed."
+        "Only mental break \"FireStartingSpree\" allowed.",
+        "x115% Maximum comfortable temperature"
       ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
         "stats": [
-          "Only mental break \"FireStartingSpree\" allowed."
+          "Only mental break \"FireStartingSpree\" allowed.",
+          "x115% Maximum comfortable temperature"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -520,7 +522,9 @@
       "degree": 0,
       "description": "Timmy is weak and cowardly. Even a little pain will immobilize him.",
       "stats": [
-        "-60% pain shock threshold"
+        "+3 medical",
+        "-50% pain shock threshold",
+        "x120% move speed"
       ],
       "conflicts": [
         "brawler",
@@ -533,7 +537,9 @@
           "masochist"
         ],
         "stats": [
-          "-60% pain shock threshold"
+          "+3 medical",
+          "-50% pain shock threshold",
+          "x120% move speed"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -606,7 +612,9 @@
       "degree": 0,
       "description": "Timmy is slow on the uptake. he learns much slower than others.",
       "stats": [
-        "-75% global learning factor"
+        "-75% global learning factor",
+        "x110% global work speed",
+        "x125% general labor speed"
       ],
       "conflicts": [
         "toosmart"
@@ -617,7 +625,9 @@
           "toosmart"
         ],
         "stats": [
-          "-75% global learning factor"
+          "-75% global learning factor",
+          "x110% global work speed",
+          "x125% general labor speed"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -841,7 +851,8 @@
       "description": "Timmy's life revolves around food. he gets hungry quickly, and will occasionally be overcome with the urge to eat ravenously, even when not hungry.",
       "stats": [
         "Only mental break \"Binging_Food\" allowed.",
-        "+4 cooking"
+        "+4 cooking",
+        "x75% eating speed"
       ],
       "conflicts": [
         "ascetic"
@@ -853,7 +864,8 @@
         ],
         "stats": [
           "Only mental break \"Binging_Food\" allowed.",
-          "+4 cooking"
+          "+4 cooking",
+          "x75% eating speed"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -1218,14 +1230,18 @@
       "degree": -1,
       "description": "Timmy tends to crack under pressure.",
       "stats": [
-        "+8% mental break threshold"
+        "+2 intellectual",
+        "+8% mental break threshold",
+        "x110% global learning factor"
       ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
         "stats": [
-          "+8% mental break threshold"
+          "+2 intellectual",
+          "+8% mental break threshold",
+          "x110% global learning factor"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -1244,14 +1260,18 @@
       "degree": -2,
       "description": "Timmy is on a hair-trigger all the time. he is the first to break in any tough situation.",
       "stats": [
-        "+15% mental break threshold"
+        "+3 intellectual",
+        "+15% mental break threshold",
+        "x115% global learning factor"
       ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
         "stats": [
-          "+15% mental break threshold"
+          "+3 intellectual",
+          "+15% mental break threshold",
+          "x115% global learning factor"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -1378,14 +1398,16 @@
       "degree": -1,
       "description": "Timmy is a little bit lazy.",
       "stats": [
-        "-20% global work speed"
+        "-20% global work speed",
+        "x90% mental break threshold"
       ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
         "stats": [
-          "-20% global work speed"
+          "-20% global work speed",
+          "x90% mental break threshold"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -1404,14 +1426,16 @@
       "degree": -2,
       "description": "Timmy loves idleness and hates anything productive. he moves slowly and rarely stays focused on a task.",
       "stats": [
-        "-35% global work speed"
+        "-35% global work speed",
+        "x80% mental break threshold"
       ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
         "stats": [
-          "-35% global work speed"
+          "-35% global work speed",
+          "x80% mental break threshold"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -1650,14 +1674,18 @@
       "degree": -1,
       "description": "Timmy is somewhat ugly. This subtly repels others during social interactions.",
       "stats": [
-        "-1.0 beauty"
+        "Inspired recruitment inspiration disabled.",
+        "-1.0 beauty",
+        "x110% global work speed"
       ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
         "stats": [
-          "-1.0 beauty"
+          "Inspired recruitment inspiration disabled.",
+          "-1.0 beauty",
+          "x110% global work speed"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -1676,14 +1704,20 @@
       "degree": -2,
       "description": "Timmy is staggeringly ugly. his face looks like a cross between a drawing by an untalented child, a malformed fetus in a jar of formaldehyde, and a piece of modern art. Others must exert conscious effort to look at him while conversing.",
       "stats": [
-        "-2.0 beauty"
+        "Inspired trade inspiration disabled.",
+        "Inspired recruitment inspiration disabled.",
+        "-2.0 beauty",
+        "x115% global work speed"
       ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
         "stats": [
-          "-2.0 beauty"
+          "Inspired trade inspiration disabled.",
+          "Inspired recruitment inspiration disabled.",
+          "-2.0 beauty",
+          "x115% global work speed"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -1799,6 +1833,40 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
+      "degree": 1,
+      "description": "NAME is an robot. As a robot HE is a bit faster and not really sensible for psychic phenomena.",
+      "stats": [
+        "+0.10 move speed",
+        "+20% global work speed",
+        "-100% psychic sensitivity",
+        "+95% toxic resistance",
+        "-90% mental break threshold"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+0.10 move speed",
+          "+20% global work speed",
+          "-100% psychic sensitivity",
+          "+95% toxic resistance",
+          "-90% mental break threshold"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Misc. Robots",
+        "karmaTypeForAdding": null
+      },
+      "defName": "AIRobot_BaseTrait",
+      "name": "robot"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 2,
       "description": "Timmy possesses an unnatural, almost pristine beauty that makes him stand out among others of his kind.",
       "stats": [
@@ -1845,40 +1913,6 @@
       },
       "defName": "AG_Beauty",
       "name": "repulsive"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 1,
-      "description": "NAME is an robot. As a robot HE is a bit faster and not really sensible for psychic phenomena.",
-      "stats": [
-        "+0.10 move speed",
-        "+20% global work speed",
-        "-100% psychic sensitivity",
-        "+95% toxic resistance",
-        "-90% mental break threshold"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+0.10 move speed",
-          "+20% global work speed",
-          "-100% psychic sensitivity",
-          "+95% toxic resistance",
-          "-90% mental break threshold"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Misc. Robots",
-        "karmaTypeForAdding": null
-      },
-      "defName": "AIRobot_BaseTrait",
-      "name": "robot"
     }
   ],
   "races": [
@@ -1902,34 +1936,7 @@
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 150
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+70.00 Mass",
-          "+100% Flammability",
-          "-108.0F Minimum comfortable temperature",
-          "+360.0F Maximum comfortable temperature",
-          "+0% Psychic sensitivity",
-          "+0% Toxic resistance",
-          "+0 Meat amount",
-          "+0 Leather amount",
-          "+0 Carrying capacity",
-          "+0.00% Social impact",
-          "+0.0% Armor - Blunt",
-          "+0.0% Armor - Sharp",
-          "+0.0% Armor - Heat"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A zombie",
-      "defName": "Zombie",
-      "enabled": false,
-      "name": "Zombie",
-      "price": 1
+      "price": 200
     }
   ]
 }
