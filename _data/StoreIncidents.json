@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 2500,
+		"price": 800,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 6600,
+		"price": 2600,
 		"karmatype": "Bad"
 	},
 	{
@@ -19,6 +19,11 @@
 		"abr": "rain",
 		"price": 350,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "vomitrain",
+		"price": 650,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "foggyrain",
@@ -332,7 +337,7 @@
 	},
 	{
 		"abr": "healall",
-		"price": 2176,
+		"price": 17336,
 		"karmatype": "Good"
 	},
 	{
@@ -431,5 +436,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 86
+	"total": 87
 }
