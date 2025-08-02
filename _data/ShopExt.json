@@ -1975,58 +1975,6 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "degree": 2,
-      "description": "Timmy possesses an unnatural, almost pristine beauty that makes him stand out among others of his kind.",
-      "stats": [
-        "+3.0 beauty"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+3.0 beauty"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Alpha Genes",
-        "karmaTypeForAdding": null
-      },
-      "defName": "AG_Beauty",
-      "name": "angelicbeauty"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -2,
-      "description": "Timmy is so unfathomably ugly and grotesque that merely looking at him is enough to make other people nauseous.",
-      "stats": [
-        "-3.0 beauty"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "-3.0 beauty"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Alpha Genes",
-        "karmaTypeForAdding": null
-      },
-      "defName": "AG_Beauty",
-      "name": "repulsive"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
       "degree": 1,
       "description": "NAME is an robot. As a robot HE is a bit faster and not really sensible for psychic phenomena.",
       "stats": [
@@ -2055,6 +2003,132 @@
       },
       "defName": "AIRobot_BaseTrait",
       "name": "robot"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy enjoys the solitude and tranquility inherent to long fishing sessions. he will prefer fishing above other activities.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Fishing Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VCEF_Fisherman",
+      "name": "fisherman"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a successful product of an ancient experimental project, he almost entirely specialized for combat. he is extremely hard to defeat.",
+      "stats": [
+        "x60% incoming damage multiplier",
+        "x75% aiming time",
+        "x105% shooting accuracy",
+        "x130% immunity gain speed",
+        "x0% psychic sensitivity"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x60% incoming damage multiplier",
+          "x75% aiming time",
+          "x105% shooting accuracy",
+          "x130% immunity gain speed",
+          "x0% psychic sensitivity"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Ancient urban ruins",
+        "karmaTypeForAdding": null
+      },
+      "defName": "AM_Elite",
+      "name": "successfulproducts"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a fashion guy who is skilled at shooting in a slide shovel, he can use gun to blast everything he sees.",
+      "stats": [
+        "x70% incoming damage multiplier",
+        "x1% aiming time",
+        "x155% shooting accuracy",
+        "x0% psychic sensitivity"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x70% incoming damage multiplier",
+          "x1% aiming time",
+          "x155% shooting accuracy",
+          "x0% psychic sensitivity"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Ancient urban ruins",
+        "karmaTypeForAdding": null
+      },
+      "defName": "AM_MallGuards",
+      "name": "fashionguy"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy was implanted with an excessive amount of parasites, which completely destroyed his sanity but greatly increased his strength.",
+      "stats": [
+        "+50.0 melee dodge chance",
+        "-10.5 melee hit chance",
+        "+300% melee damage factor",
+        "-90.0F min comfortable temperature",
+        "x45% incoming damage multiplier",
+        "x0% psychic sensitivity",
+        "x0% stagger time multiplier"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+50.0 melee dodge chance",
+          "-10.5 melee hit chance",
+          "+300% melee damage factor",
+          "-90.0F min comfortable temperature",
+          "x45% incoming damage multiplier",
+          "x0% psychic sensitivity",
+          "x0% stagger time multiplier"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Ancient urban ruins",
+        "karmaTypeForAdding": null
+      },
+      "defName": "AM_Slaughter",
+      "name": "parasiticfailedproduct"
     }
   ],
   "races": [
@@ -2069,7 +2143,8 @@
           "+28.8F Min comfortable temperature",
           "+46.8F Max comfortable temperature",
           "+75 Leather amount",
-          "+3 Honor value"
+          "+3 Honor value",
+          "+75% Wildness"
         ],
         "mod": "Unknown",
         "karmaType": null
@@ -2091,7 +2166,8 @@
           "+28.8F Min comfortable temperature",
           "+46.8F Max comfortable temperature",
           "+75 Leather amount",
-          "+3 Honor value"
+          "+3 Honor value",
+          "+75% Wildness"
         ],
         "mod": "Unknown",
         "karmaType": null
