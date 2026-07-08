@@ -218,9 +218,9 @@
   "maninblack": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 604800,
     "Mod": "Twitch Toolkit"
   },
   "madanimal": {
@@ -450,9 +450,9 @@
   "pawn": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 604800,
     "Mod": "Twitch Toolkit"
   },
   "levelskill": {

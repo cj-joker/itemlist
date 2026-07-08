@@ -3776,13 +3776,13 @@
     },
     {
       "abr": "bowlofstew",
-      "category": "Meals",
+      "category": "Lavish Meals",
       "defname": "bowlstew",
       "price": 42
     },
     {
       "abr": "stirfry",
-      "category": "Meals",
+      "category": "Fine Meals",
       "defname": "stirfry",
       "price": 42
     },
@@ -6571,174 +6571,6 @@
       "price": 833
     },
     {
-      "abr": "bambooshoot",
-      "category": "Vegetarian",
-      "defname": "LGC_RawBambooShoot",
-      "price": 2
-    },
-    {
-      "abr": "banana",
-      "category": "Vegetarian",
-      "defname": "LGC_RawBanana",
-      "price": 2
-    },
-    {
-      "abr": "bellpepper",
-      "category": "Vegetarian",
-      "defname": "LGC_RawBellPepper",
-      "price": 2
-    },
-    {
-      "abr": "cabbage",
-      "category": "Vegetarian",
-      "defname": "LGC_RawCabbage",
-      "price": 2
-    },
-    {
-      "abr": "carrot",
-      "category": "Vegetarian",
-      "defname": "LGC_RawCarrot",
-      "price": 2
-    },
-    {
-      "abr": "cauliflower",
-      "category": "Vegetarian",
-      "defname": "LGC_RawCauliflower",
-      "price": 2
-    },
-    {
-      "abr": "eggplant",
-      "category": "Vegetarian",
-      "defname": "LGC_RawEggplant",
-      "price": 2
-    },
-    {
-      "abr": "giantbambooshoot",
-      "category": "Misc",
-      "defname": "LGC_BigBambooShoot",
-      "price": 875
-    },
-    {
-      "abr": "giantbanana",
-      "category": "Misc",
-      "defname": "LGC_BigBanana",
-      "price": 875
-    },
-    {
-      "abr": "giantbellpepper",
-      "category": "Misc",
-      "defname": "LGC_BigBellPepper",
-      "price": 875
-    },
-    {
-      "abr": "giantcabbage",
-      "category": "Misc",
-      "defname": "LGC_BigCabbage",
-      "price": 875
-    },
-    {
-      "abr": "giantcarrot",
-      "category": "Misc",
-      "defname": "LGC_BigCarrot",
-      "price": 875
-    },
-    {
-      "abr": "giantcauliflower",
-      "category": "Misc",
-      "defname": "LGC_BigCauliflower",
-      "price": 875
-    },
-    {
-      "abr": "giantcorn",
-      "category": "Misc",
-      "defname": "LGC_BigCorn",
-      "price": 917
-    },
-    {
-      "abr": "gianteggplant",
-      "category": "Misc",
-      "defname": "LGC_BigEggplant",
-      "price": 875
-    },
-    {
-      "abr": "giantlettuce",
-      "category": "Misc",
-      "defname": "LGC_BigLettuce",
-      "price": 875
-    },
-    {
-      "abr": "giantmushroom",
-      "category": "Misc",
-      "defname": "LGC_BigMushroom",
-      "price": 458
-    },
-    {
-      "abr": "giantonion",
-      "category": "Misc",
-      "defname": "LGC_BigOnion",
-      "price": 875
-    },
-    {
-      "abr": "giantpineapple",
-      "category": "Misc",
-      "defname": "LGC_BigPineapple",
-      "price": 875
-    },
-    {
-      "abr": "giantpotato",
-      "category": "Misc",
-      "defname": "LGC_BigPotato",
-      "price": 917
-    },
-    {
-      "abr": "giantpumpkin",
-      "category": "Misc",
-      "defname": "LGC_BigPumpkin",
-      "price": 875
-    },
-    {
-      "abr": "giantrice",
-      "category": "Misc",
-      "defname": "LGC_BigRice",
-      "price": 917
-    },
-    {
-      "abr": "gianttomato",
-      "category": "Misc",
-      "defname": "LGC_BigTomato",
-      "price": 875
-    },
-    {
-      "abr": "giantwatermelon",
-      "category": "Misc",
-      "defname": "LGC_BigWatermelon",
-      "price": 875
-    },
-    {
-      "abr": "lettuce",
-      "category": "Vegetarian",
-      "defname": "LGC_RawLettuce",
-      "price": 2
-    },
-    {
-      "abr": "onion",
-      "category": "Vegetarian",
-      "defname": "LGC_RawOnion",
-      "price": 2
-    },
-    {
-      "abr": "pineapple",
-      "category": "Vegetarian",
-      "defname": "LGC_RawPineapple",
-      "price": 2
-    },
-    {
-      "abr": "pumpkin",
-      "category": "Vegetarian",
-      "defname": "LGC_RawPumpkin",
-      "price": 2
-    },
-    {
       "abr": "scimitarcatmeat",
       "category": "Meat",
       "defname": "Meat_Cat_Scimitar",
@@ -6985,12 +6817,6 @@
       "price": 11
     },
     {
-      "abr": "tomato",
-      "category": "Vegetarian",
-      "defname": "LGC_RawTomato",
-      "price": 2
-    },
-    {
       "abr": "tortoiseegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggTortoiseUnfertilized",
@@ -7181,12 +7007,6 @@
       "category": "Security",
       "defname": "WaspDroneTrap",
       "price": 133
-    },
-    {
-      "abr": "watermelon",
-      "category": "Vegetarian",
-      "defname": "LGC_RawWatermelon",
-      "price": 2
     },
     {
       "abr": "waybill",
@@ -7877,7 +7697,277 @@
       "category": "Military components",
       "defname": "AM_ComponentWeapon",
       "price": 150
+    },
+    {
+      "abr": "carnivorebowlofstew",
+      "category": "Lavish Meals",
+      "defname": "bowlstew_Meat",
+      "price": 75
+    },
+    {
+      "abr": "carnivorestir-frymeal",
+      "category": "Fine Meals",
+      "defname": "Mealstirfry_Meat",
+      "price": 42
+    },
+    {
+      "abr": "drum",
+      "category": "Storage",
+      "defname": "sbz_Drum",
+      "price": 74
+    },
+    {
+      "abr": "archocolumn",
+      "category": "Misc",
+      "defname": "ArchotechDroneColumn",
+      "price": 20000
+    },
+    {
+      "abr": "archocube",
+      "category": "Utility",
+      "defname": "ComponentArchoDrone",
+      "price": 3333
+    },
+    {
+      "abr": "autopsytable",
+      "category": "Production",
+      "defname": "TableAutopsy",
+      "price": 400
+    },
+    {
+      "abr": "ceilingfirefoampopper",
+      "category": "Misc",
+      "defname": "FExt_CeilingFoamPopper",
+      "price": 322
+    },
+    {
+      "abr": "climatecontrolunit",
+      "category": "Climate",
+      "defname": "AirThermal",
+      "price": 800
+    },
+    {
+      "abr": "clustercolumn",
+      "category": "Security",
+      "defname": "DetColumnMod",
+      "price": 321
+    },
+    {
+      "abr": "crystalcolumn",
+      "category": "Misc",
+      "defname": "DarkColumnMod",
+      "price": 205
+    },
+    {
+      "abr": "deadlifecolumn",
+      "category": "Security",
+      "defname": "DeadColumnMod",
+      "price": 350
+    },
+    {
+      "abr": "femini-turret",
+      "category": "Security",
+      "defname": "Turret_MiniTurret_FE",
+      "price": 700
+    },
+    {
+      "abr": "fireextinguisher",
+      "category": "Ranged weapons",
+      "defname": "Gun_Fire_Ext",
+      "price": 295
+    },
+    {
+      "abr": "fireextinguishershelf",
+      "category": "Misc",
+      "defname": "FExt_Shelf",
+      "price": 35
+    },
+    {
+      "abr": "firefoambelt",
+      "category": "Apparel",
+      "defname": "FireFoam_Belt",
+      "price": 236
+    },
+    {
+      "abr": "firefoampad",
+      "category": "Misc",
+      "defname": "Wall_FirefoamPopper",
+      "price": 261
+    },
+    {
+      "abr": "flamecolumn",
+      "category": "Security",
+      "defname": "FlameColumnMod",
+      "price": 333
+    },
+    {
+      "abr": "frozencolumn",
+      "category": "Misc",
+      "defname": "IceColumnMod",
+      "price": 850
+    },
+    {
+      "abr": "frozenpad",
+      "category": "Misc",
+      "defname": "Wall_CoolDevice",
+      "price": 358
+    },
+    {
+      "abr": "halfpallet",
+      "category": "Storage",
+      "defname": "sbz_HalfPallet",
+      "price": 145
+    },
+    {
+      "abr": "heatpad",
+      "category": "Temperature",
+      "defname": "Wall_HeatDevice",
+      "price": 358
+    },
+    {
+      "abr": "intakefan",
+      "category": "Climate",
+      "defname": "IntakeFan",
+      "price": 383
+    },
+    {
+      "abr": "kidoutfitstand",
+      "category": "Furniture",
+      "defname": "Building_KidOutfitStand",
+      "price": 102
+    },
+    {
+      "abr": "largeclimatecontrolunit",
+      "category": "Climate",
+      "defname": "LargeAirThermal",
+      "price": 2408
+    },
+    {
+      "abr": "largeintakefan",
+      "category": "Climate",
+      "defname": "LargeIntakeFan",
+      "price": 1142
+    },
+    {
+      "abr": "largesurroundairvent",
+      "category": "Climate",
+      "defname": "SurroundAirVentWide",
+      "price": 1342
+    },
+    {
+      "abr": "lightcolumn",
+      "category": "Misc",
+      "defname": "LightColumnMod",
+      "price": 173
+    },
+    {
+      "abr": "mininghelmet",
+      "category": "Headgear",
+      "defname": "Apparel_MiningHelmet",
+      "price": 322
+    },
+    {
+      "abr": "miningvest",
+      "category": "Apparel",
+      "defname": "Apparel_MiningVest",
+      "price": 375
+    },
+    {
+      "abr": "orbitaltradecolumn",
+      "category": "Misc",
+      "defname": "OrbitalTradeColumnMod",
+      "price": 375
+    },
+    {
+      "abr": "orbitaltradepad",
+      "category": "Misc",
+      "defname": "Wall_TradeDevice",
+      "price": 258
+    },
+    {
+      "abr": "outfitstand",
+      "category": "Furniture",
+      "defname": "Building_OutfitStand",
+      "price": 119
+    },
+    {
+      "abr": "packagedcarnivoresurvivalmeal",
+      "category": "Meals",
+      "defname": "MealSurvivalPackMeat",
+      "price": 40
+    },
+    {
+      "abr": "packagedvegetariansurvivalmeal",
+      "category": "Meals",
+      "defname": "MealSurvivalPackVeg",
+      "price": 40
+    },
+    {
+      "abr": "roundpedestal",
+      "category": "Storage",
+      "defname": "sbz_RoundPedestal",
+      "price": 41
+    },
+    {
+      "abr": "safe",
+      "category": "Storage",
+      "defname": "sbz_Safe",
+      "price": 74
+    },
+    {
+      "abr": "smallwallairvent",
+      "category": "Climate",
+      "defname": "WallAirVentSmall",
+      "price": 112
+    },
+    {
+      "abr": "stunpulsecolumn",
+      "category": "Security",
+      "defname": "EMPColumnMod",
+      "price": 383
+    },
+    {
+      "abr": "suncolumn",
+      "category": "Misc",
+      "defname": "SunColumnMod",
+      "price": 742
+    },
+    {
+      "abr": "sunpad",
+      "category": "Misc",
+      "defname": "Wall_SunDevice",
+      "price": 280
+    },
+    {
+      "abr": "surroundairvent",
+      "category": "Climate",
+      "defname": "SurroundAirVent",
+      "price": 675
+    },
+    {
+      "abr": "tallcrate",
+      "category": "Storage",
+      "defname": "sbz_TallCrate",
+      "price": 285
+    },
+    {
+      "abr": "vegetarianbowlofstew",
+      "category": "Lavish Meals",
+      "defname": "bowlstew_Veg",
+      "price": 75
+    },
+    {
+      "abr": "vegetarianstir-frymeal",
+      "category": "Fine Meals",
+      "defname": "Mealstirfry_Veg",
+      "price": 42
+    },
+    {
+      "abr": "wallairvent",
+      "category": "Climate",
+      "defname": "WallAirVent",
+      "price": 224
     }
   ],
-  "total": 1313
+  "total": 1328
 }
